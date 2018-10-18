@@ -6,8 +6,8 @@ A Makers precourse project: the student directory script will allow you to manag
 
 ## How to use ##
 
-I'm not sure what this next bit will look like.
+To start directory, execute the following code in cmdline.
 
 ```shell
-ruby director.rb
+ruby directory.rb
 ```
