@@ -8,6 +8,6 @@ A Makers precourse project: the student directory script will allow you to manag
 
 I'm not sure what this next bit will look like.
 
-'''shell
+```shell
 ruby director.rb
-'''
+```
